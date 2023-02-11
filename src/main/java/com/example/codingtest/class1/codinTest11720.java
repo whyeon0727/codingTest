@@ -1,4 +1,4 @@
-package com.example.codingtest;
+package com.example.codingtest.class1;
 
 import java.util.Arrays;
 import java.util.Scanner;
